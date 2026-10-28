@@ -38,8 +38,7 @@ Running the Application
 
 Download or clone this repository:
 
-git clone https://github.com/YourUsername/File-Tool-Kit.git
-
+SOON!!!!
 
 Navigate to the folder:
 
